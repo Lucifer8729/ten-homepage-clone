@@ -35,17 +35,20 @@
 }
 
 .tab4-dropdown {
-  margin-left: -7%;
+  margin-left: -7.7%;
   position: absolute;
   flex-direction: column;
 }
 .dropdown-items {
   width: 100%;
+  background-color: white;
   border-bottom: 1px solid blueviolet;
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 1% 0 1%;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .dropdown-items:hover {
   color: red;
