@@ -1,0 +1,52 @@
+.navbar {
+  display: flex;
+  font-family: sans-serif;
+  justify-content: center;
+  align-items: center;
+  margin-left: -1%;
+  margin-top: -3%;
+}
+
+.tab {
+  padding: 0 1.5%;
+  font-size: x-large;
+  cursor: pointer;
+  border-right: 1px solid black;
+  height: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tab:hover {
+  color: red;
+}
+.tab1 {
+  color: red;
+}
+.tab4 {
+  border: none;
+  display: inline;
+}
+.tab4:hover {
+  color: black;
+}
+.more-tab {
+  padding-top: 10%;
+}
+
+.tab4-dropdown {
+  margin-left: -7%;
+  position: absolute;
+  flex-direction: column;
+}
+.dropdown-items {
+  width: 100%;
+  border-bottom: 1px solid blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1% 0 1%;
+}
+.dropdown-items:hover {
+  color: red;
+}

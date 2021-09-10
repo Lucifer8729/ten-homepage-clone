@@ -1,0 +1,16 @@
+.title {
+  position: relative;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 44px;
+  font-weight: bolder;
+  margin: 0 0 -15px calc((100% - 980px) * 0.5);
+  line-height: 3rem;
+}
+
+.title-highlight {
+  color: red;
+  cursor: pointer;
+  -webkit-text-stroke: 1px black;
+}
+h1 {
+}
