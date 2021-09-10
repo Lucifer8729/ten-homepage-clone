@@ -1,3 +1,10 @@
 .header {
   margin-top: 18px;
+  padding-bottom: 29px;
+}
+.right-items {
+  background-color: blueviolet;
+  display: flex;
+  justify-self: right;
+  justify-content: right;
 }

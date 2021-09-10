@@ -1,0 +1,22 @@
+.login-btn {
+  font-family: sans-serif;
+  background-color: white;
+  font-size: 16px;
+  width: 117px;
+  height: 46px;
+  cursor: pointer;
+  margin-top: -8.8%;
+  margin-right: 5.2%;
+  border: 1px solid black;
+  box-shadow: 0 0 4px 0.2px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-user {
+  padding: 0 6%;
+}
+.login-txt {
+  padding: 0 6%;
+}
