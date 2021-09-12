@@ -49,4 +49,9 @@
   font-weight: bold;
   margin-top: 15px;
   margin-left: 35%;
+  cursor: pointer;
+}
+.submit-btn:hover {
+  background-color: red;
+  border-color: red;
 }
