@@ -1,0 +1,36 @@
+.footer {
+  box-shadow: 0 -1px 4px -1px black;
+}
+
+.footer-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 253px;
+}
+
+.footer-item {
+  margin: 0 1.5%;
+}
+
+.footer-text {
+  font-family: sans-serif;
+  font-size: 22px;
+  background-color: #ff5937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 32px;
+}
+
+.form {
+  margin-top: -45px;
+}
+
+.icons {
+  margin-top: -50px;
+}
+
+.links {
+  margin-top: -30px;
+}
