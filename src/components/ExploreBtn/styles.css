@@ -1,0 +1,23 @@
+.explore-btn {
+  height: 62px;
+  width: 240px;
+  background: black;
+  border-radius: 69px;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+}
+
+.explore-btn:hover {
+  background: #ff0000;
+  border: solid #dd380d 0;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+}
