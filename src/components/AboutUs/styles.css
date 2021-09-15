@@ -1,0 +1,55 @@
+.about-us-div {
+  font-family: sans-serif;
+  background-color: red;
+  margin-top: 40px;
+  height: 462px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-us-title {
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: -3%;
+}
+
+.about-us-content {
+  margin-top: 2%;
+  display: flex;
+}
+
+.about-us-des {
+  width: 441px;
+  height: 296px;
+  font-size: 42px;
+  font-weight: 700;
+  text-shadow: rgba(255, 255, 255, 0.6) 1px 1px 1px,
+    rgba(0, 0, 0, 0.6) -1px -1px 1px;
+  text-align: center;
+}
+
+.about-us-img {
+  width: 441px;
+  height: 296px;
+  border: 2px solid black;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.about-us-learn-btn {
+  width: 182px;
+  height: 47px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+  border: 2px solid black;
+  box-shadow: 0 10px 4px -6px black;
+  cursor: pointer;
+}
+.about-us-learn-btn:hover {
+  background-color: black;
+  border-color: white;
+  color: white;
+}
